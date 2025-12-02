@@ -1,6 +1,6 @@
 ### Hi, I'm Sudeep Mestry.
 
-I am currently pursuing my M.Sc. in Physics with specialization in Astrophysics.
+I am a final-year M.Sc. Physics student specializing in Astrophysics.
 
 My main interest is using code to solve physics problems. I am currently learning Python, Machine Learning, and Data Analysis to apply them to computational physics and astrophysical data.
 
