@@ -1,4 +1,4 @@
-# Hi, I'm Sudeep Mestry.
+### Hi, I'm Sudeep Mestry.
 
 I am currently pursuing my M.Sc. in Physics with specialization in Astrophysics.
 
